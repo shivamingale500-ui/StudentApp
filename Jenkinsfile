@@ -6,7 +6,7 @@ pipeline {
 				echo "Building Application"
 }
 }
-  		stage('Tese') {
+  		stage('Test') {
 			steps {
 				echo "Running Test"
 }
